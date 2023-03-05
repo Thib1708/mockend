@@ -1,7 +1,4 @@
-    github.com/Thib1708/mockend/.mockend.json 
-
-
-    {
+ {
       "User": {
         "title": { "string": {} }
       }
